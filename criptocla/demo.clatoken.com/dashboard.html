@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                       </a>
                       </li> -->
-                      <li class="hide-on-small-and-down"><a href="https://ico.reftoken.io/" class="icobtn" id="toppresalebtn"><div class="chip orange white-text ">JOIN ICO PRESALE
+                      <li class="hide-on-small-and-down"><a href="https://poloniex.com/" class="icobtn" id="toppresalebtn"><div class="chip orange white-text ">JOIN ICO PRESALE
                       </div></a></li>
                       <li class="hide-on-med-and-down"><a href="wallet-options.html"><div class="chip white black-text">CLA BALANCE: 0
                       </div></a></li>
